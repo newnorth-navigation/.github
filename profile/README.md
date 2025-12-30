@@ -1,10 +1,19 @@
 ## NewNorth - Novelty Navigation Tool
 
 
-This organization is a collection of repositories dedicated to the NewNorth Project. The NewNorth project is dedicated to building a wrist-mounted compass which can be used for unique navigation. The device is intended as a novelty item but one which retains some usefulness.
+This organization is a collection of repositories dedicated to the NewNorth Project. The NewNorth project is dedicated to building a wrist-mounted compass which can be used for unique navigation. The device is intended as a novelty item but one which retains some usefulness and provides a quality experience.
 
-Q: Why would someone purchase this item?
-A: For the same reason one would purchase a compass in the modern day, fun.
+
+### FAQ
+
+Q: Why would someone purchase this item?  
+*A: For the same reason one would purchase a compass in the modern day, fun.*
+
+Q: How much will this item cost?  
+*A: Expected to range from $60 to $100*
+
+Q: When will the project be complete?  
+*A: Deadline is end of July 2026*
 <!--
 
 **Here are some ideas to get you started:**
