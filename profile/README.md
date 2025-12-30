@@ -2,6 +2,9 @@
 
 
 This organization is a collection of repositories dedicated to the NewNorth Project. The NewNorth project is dedicated to building a wrist-mounted compass which can be used for unique navigation. The device is intended as a novelty item but one which retains some usefulness.
+
+Q: Why would someone purchase this item?
+A: For the same reason one would purchase a compass in the modern day, fun.
 <!--
 
 **Here are some ideas to get you started:**
