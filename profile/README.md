@@ -1,4 +1,4 @@
-## Hi there 👋
+## NewNorth - Novelty Navigation Tool
 
 
 This organization is a collection of repositories dedicated to the NewNorth Project. The NewNorth project is dedicated to building a wrist-mounted compass which can be used for unique navigation. The device is intended as a novelty item but one which retains some usefulness.
